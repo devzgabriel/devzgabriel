@@ -15,7 +15,7 @@
 
 ## Sou um programador que acredita que o objetivo da profissão não é escrever código e sim resolver problemas! :bulb:
 
-###Tecnologias que pode encontrar nesse perfil:
+Tecnologias que pode encontrar nesse perfil:
 
 - Javascript
 - HTML e CSS
