@@ -17,7 +17,7 @@
 
 Tecnologias que pode encontrar nesse perfil:
 
-- Javascript
+- Javascript/Typescript
 - HTML e CSS
 - React e React Native
 - Node
