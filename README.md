@@ -1,4 +1,4 @@
-![capa github](https://github.com/devzgabriel/devzgabriel/blob/main/images/landing.png)
+![landing](https://github.com/devzgabriel/devzgabriel/blob/main/images/landing.png)
 
 <center>
   <table>
@@ -9,59 +9,31 @@
   </table>
 </center>
 
-### Olá! Sinta se em localhost <img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/Hi.gif" width="30px">
+### Hi! Feel at localhost <img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/Hi.gif" width="30px">
 
 ---
 
-## Sou um programador que acredita que o objetivo da profissão não é escrever código e sim resolver problemas! :bulb:
+## I am a programmer who believes that the purpose of the profession is not to write code but to solve problems! :bulb:
 
-Tecnologias que pode encontrar nesse perfil:
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=for-the-badge&logo=javascript)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-05122A?style=for-the-badge&logo=typescript)
 
-- Javascript/Typescript
-- HTML e CSS
-- React e React Native
-- Node
-- Python
-- Amazon Web Services
-- C e C++
+![REACT](https://img.shields.io/badge/-REACT-05122A?style=for-the-badge&logo=react)
+![NEXT](https://img.shields.io/badge/-NEXT-05122A?style=for-the-badge&logo=next.js)
+
+![YARN](https://img.shields.io/badge/-YARN-05122A?style=for-the-badge&logo=yarn)
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=npm)
+![GIT](https://img.shields.io/badge/-GIT-05122A?style=for-the-badge&logo=git)
+![NODEJS](https://img.shields.io/badge/-NODEJS-05122A?style=for-the-badge&logo=node.js)
 
 ---
 
-Onde me encontrar? :mag:
+How to find me? :mag:
 
-<a href="https://twitter.com/devzgabriel"><img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/devzgabriel)
-
-<a href="https://www.instagram.com/developer_gabriel/"><img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/developer_gabriel)
-
-<a href="https://www.linkedin.com/in/gabriel-silva-devzgabriel/"><img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-silva-devzgabriel/)
-
-<a href="mailto:gabriel.etefmc@gmail.com"><img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/email.png" width="16"></img></a> [Email](mailto:gabriel.etefmc@gmail.com)
+<a href="https://www.linkedin.com/in/gabriel-silva-devzgabriel/"><img width="100" height="26" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="16"></img></a>
+<a href="https://github.com/devzgabriel"><img width="100" height="26" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="16"></img></a>
+<a href="mailto:devzgabriel@gmail.com"><img width="100" height="26" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="16"></img></a>
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=devzgabriel&color=blue&style=flat)
-
-<!--
-### Hi there 👋
-
-Loking for a rocket!
-
-An eternal student looking for experience, but able to create solutions like a teacher!
-
-- 👯 I’m looking to collaborate on Python and JavaScript projects
-- 🌱 I’m currently learning React and Node
-- 📫 How to reach me: gabriel.etefmc@gmail.com
-
-✨ _special_ ✨
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
